@@ -1,0 +1,11 @@
+GET http://pubinfo.sdwcvc.cn/xxtb2/dailyRecord HTTP/1.1
+Host: pubinfo.sdwcvc.cn
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Referer: http://pubinfo.sdwcvc.cn/xxtb2/dailyRecord?submitDate=2020-10-26
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Cookie: JSESSIONID=node01hl8fetjjuyns1fx5zp5s1jsrp793776.node0; CTTICKET=web_0ba36a54601070872370aabb225fa0fd45fbb054
+
